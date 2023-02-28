@@ -23,7 +23,8 @@ Coming in second place is "Animal Crossing: New Horizons" which released in Marc
 
 <img width="1772" alt="Screenshot 2023-02-28 at 4 00 11 PM" src="https://user-images.githubusercontent.com/95504135/221978520-2e9b10b8-948d-4ce5-a5ba-bbedefdeebc5.png">The top selling genres include RPG (Role Playing Games), Platformer, and Action/Adventure.
 
-<img width="692" alt="Screenshot 2023-02-28 at 4 11 03 PM" src="https://user-images.githubusercontent.com/95504135/221980881-8fa68d31-9176-4cef-9d00-2a0c5e5d6bbf.png">We see that the majority of Nintendo Switch game sales come from Nintendo (publisher).
+<img width="692" alt="Screenshot 2023-02-28 at 4 11 03 PM" src="https://user-images.githubusercontent.com/95504135/221980881-8fa68d31-9176-4cef-9d00-2a0c5e5d6bbf.png"> 
+The majority of Nintendo Switch game sales come from Nintendo (publisher).
 
 <img width="1760" alt="Screenshot 2023-02-28 at 4 00 44 PM" src="https://user-images.githubusercontent.com/95504135/221978612-0a1f3b8a-38fa-4191-8343-40d3db89f8bb.png">When visualizing quarterly trends from 2017 to 2022, we see that Q4 has the highest amount of units sold- around the holiday season. There are however, as mentioned before, several outliers to this including the launch of the Nintendo Switch console in Q1 of 2017, and the beginning of the COVID-19 pandemic in Q1 of 2020.
 
